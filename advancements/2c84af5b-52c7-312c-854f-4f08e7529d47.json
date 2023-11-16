@@ -1,0 +1,14 @@
+{
+  "roots:staff": {
+    "criteria": {
+      "book": "2023-11-16 19:14:19 +0300"
+    },
+    "done": true
+  },
+  "roots:root": {
+    "criteria": {
+      "auto": "2023-11-16 19:12:50 +0300"
+    },
+    "done": true
+  }
+}

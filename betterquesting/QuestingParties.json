@@ -1,14 +1,28 @@
 {
   "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "a2cfb83f-bc69-387e-8d07-c8a5c0f3cd70",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "New Party1"
+        }
+      }
+    },
     "1:10": {
       "members:9": {
         "0:10": {
-          "uuid:8": "1033b485-6d64-393e-af54-e66961243773",
-          "status:8": "OWNER"
-        },
-        "1:10": {
           "uuid:8": "b59f6d59-da59-4f24-81c3-580f9d1243b0",
           "status:8": "MEMBER"
+        },
+        "1:10": {
+          "uuid:8": "1033b485-6d64-393e-af54-e66961243773",
+          "status:8": "OWNER"
         }
       },
       "partyID:3": 1,
