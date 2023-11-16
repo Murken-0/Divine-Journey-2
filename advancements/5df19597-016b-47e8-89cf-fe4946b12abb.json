@@ -1,0 +1,20 @@
+{
+  "erebus:portal/portal_activator": {
+    "criteria": {
+      "get_activator": "2023-11-16 16:29:24 +0300"
+    },
+    "done": false
+  },
+  "roots:staff": {
+    "criteria": {
+      "book": "2023-11-16 16:29:24 +0300"
+    },
+    "done": true
+  },
+  "roots:root": {
+    "criteria": {
+      "auto": "2023-11-16 16:29:02 +0300"
+    },
+    "done": true
+  }
+}

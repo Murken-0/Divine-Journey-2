@@ -5,20 +5,30 @@
         "0:10": {
           "uuid:8": "b59f6d59-da59-4f24-81c3-580f9d1243b0",
           "status:8": "OWNER"
-        },
-        "1:10": {
-          "uuid:8": "1033b485-6d64-393e-af54-e66961243773",
-          "status:8": "MEMBER"
-        },
-        "2:10": {
-          "uuid:8": "b4d238b9-d69b-3b75-aadd-5604b56fa295",
-          "status:8": "MEMBER"
         }
       },
       "partyID:3": 0,
       "properties:10": {
         "betterquesting:10": {
           "name:8": "bOTYAPbI"
+        }
+      }
+    },
+    "1:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "1033b485-6d64-393e-af54-e66961243773",
+          "status:8": "OWNER"
+        },
+        "1:10": {
+          "uuid:8": "2c84af5b-52c7-312c-854f-4f08e7529d47",
+          "status:8": "MEMBER"
+        }
+      },
+      "partyID:3": 1,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "pidori"
         }
       }
     }
