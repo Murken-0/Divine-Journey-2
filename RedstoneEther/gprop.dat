@@ -1,3 +1,5 @@
 PublicFrequencies=1000
 PrivateFrequencies=50
+pukich.jammedFreqs=
 SharedFrequencies=5000
+kirleoke.jammedFreqs=
