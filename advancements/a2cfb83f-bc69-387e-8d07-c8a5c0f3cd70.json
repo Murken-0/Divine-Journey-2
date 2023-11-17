@@ -1,4 +1,334 @@
 {
+  "roots:terra_moss": {
+    "criteria": {
+      "book": "2023-11-17 09:08:01 +0300"
+    },
+    "done": true
+  },
+  "roots:stalicripe": {
+    "criteria": {
+      "book": "2023-11-17 10:09:46 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/entomology": {
+    "criteria": {
+      "in_erebus": "2023-11-17 10:41:37 +0300",
+      "kill_tarantula": "2023-11-17 10:44:21 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/beetlejuice": {
+    "criteria": {
+      "bambucket": "2023-11-17 11:41:40 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/kill_all": {
+    "criteria": {
+      "kill_bot_fly": "2023-11-17 12:38:21 +0300",
+      "kill_black_ant": "2023-11-17 10:46:07 +0300",
+      "kill_mosquito": "2023-11-17 10:45:07 +0300",
+      "kill_locust": "2023-11-17 10:44:38 +0300",
+      "kill_beetle": "2023-11-17 10:54:21 +0300",
+      "kill_scytodes": "2023-11-17 10:47:39 +0300",
+      "kill_zombie_ant": "2023-11-17 10:50:51 +0300",
+      "kill_magma_crawler": "2023-11-17 11:00:39 +0300",
+      "kill_glow_worm": "2023-11-17 10:53:23 +0300",
+      "kill_stag": "2023-11-17 10:44:57 +0300",
+      "kill_antlion": "2023-11-17 10:56:27 +0300",
+      "kill_scorpion": "2023-11-17 10:58:00 +0300",
+      "kill_centipede": "2023-11-17 11:24:13 +0300",
+      "kill_crop_weevil": "2023-11-17 10:54:55 +0300",
+      "kill_tarantula": "2023-11-17 10:44:21 +0300",
+      "kill_fly": "2023-11-17 10:48:21 +0300",
+      "kill_fire_ant_soldier": "2023-11-17 10:58:04 +0300",
+      "kill_lava_web_spider": "2023-11-17 11:11:57 +0300",
+      "kill_beetle_larva": "2023-11-17 10:45:18 +0300",
+      "kill_velvet_worm": "2023-11-17 10:54:49 +0300",
+      "kill_cicada": "2023-11-17 11:20:56 +0300",
+      "kill_praying_mantis": "2023-11-17 11:25:56 +0300",
+      "kill_punchroom": "2023-11-17 10:50:39 +0300",
+      "kill_bombardier_beetle": "2023-11-17 11:25:47 +0300",
+      "kill_jumping_spider": "2023-11-17 11:53:26 +0300",
+      "kill_dragonfly": "2023-11-17 10:54:06 +0300",
+      "kill_midge_swarm": "2023-11-17 11:40:57 +0300",
+      "kill_grasshopper": "2023-11-17 10:53:36 +0300",
+      "kill_chameleon_tick": "2023-11-17 10:57:32 +0300",
+      "kill_wasp": "2023-11-17 11:17:38 +0300"
+    },
+    "done": false
+  },
+  "erebus:portal/portal_activator": {
+    "criteria": {
+      "get_activator": "2023-11-16 19:45:06 +0300",
+      "get_keystone": "2023-11-17 10:04:12 +0300"
+    },
+    "done": true
+  },
+  "erebus:agriculture/honeyfoods": {
+    "criteria": {
+      "sandwich": "2023-11-17 11:01:57 +0300"
+    },
+    "done": false
+  },
+  "atum:core/thefullmuseum": {
+    "criteria": {
+      "anubiss_mercy": "2023-11-17 12:54:10 +0300"
+    },
+    "done": false
+  },
+  "erebus:exploration/poison_sac": {
+    "criteria": {
+      "sac_get": "2023-11-17 10:50:18 +0300"
+    },
+    "done": true
+  },
+  "roots:pacifist": {
+    "criteria": {
+      "book": "2023-11-17 13:58:26 +0300"
+    },
+    "done": true
+  },
+  "roots:staff": {
+    "criteria": {
+      "book": "2023-11-16 19:44:58 +0300"
+    },
+    "done": true
+  },
+  "triumph:dj2/06_no_more_mosquitos": {
+    "criteria": {
+      "hasCrownOfSkies": "2023-11-17 13:07:39 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/antivenom": {
+    "criteria": {
+      "bucket": "2023-11-17 11:06:54 +0300"
+    },
+    "done": true
+  },
+  "erebus:agriculture/nectar": {
+    "criteria": {
+      "get_nectar": "2023-11-17 11:44:04 +0300"
+    },
+    "done": true
+  },
+  "atum:core/itbelongsinamuseum": {
+    "criteria": {
+      "anubiss_mercy": "2023-11-17 12:54:10 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/root": {
+    "criteria": {
+      "in_ere": "2023-11-17 10:41:37 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/stung": {
+    "criteria": {
+      "scorpion": "2023-11-17 10:57:58 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/ie_shaders": {
+    "criteria": {
+      "ie_shader_bag": "2023-11-17 11:01:36 +0300"
+    },
+    "done": true
+  },
+  "triumph:dj2/02_technology": {
+    "criteria": {
+      "hasEngineersHammer": "2023-11-16 19:44:45 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/whetstone": {
+    "criteria": {
+      "powder": "2023-11-17 11:04:31 +0300"
+    },
+    "done": false
+  },
+  "erebus:portal/gaean_gem": {
+    "criteria": {
+      "obtain_gem": "2023-11-17 13:06:51 +0300"
+    },
+    "done": true
+  },
+  "aether_legacy:to_infinity_and_beyond": {
+    "criteria": {
+      "enter_aether": "2023-11-17 15:38:32 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tc_aspects": {
+    "criteria": {
+      "crystal_essence": "2023-11-17 14:51:57 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/repellent": {
+    "criteria": {
+      "repellent": "2023-11-17 11:21:00 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/quicksand": {
+    "criteria": {
+      "louse": "2023-11-17 11:25:32 +0300"
+    },
+    "done": true
+  },
+  "roots:cloud_berry": {
+    "criteria": {
+      "book": "2023-11-17 21:37:28 +0300"
+    },
+    "done": true
+  },
+  "roots:all_the_herbs_3": {
+    "criteria": {
+      "wildewheet": "2023-11-17 09:50:52 +0300",
+      "terra_moss": "2023-11-17 09:08:01 +0300",
+      "stalicripe": "2023-11-17 10:09:46 +0300",
+      "cloud_berry": "2023-11-17 21:37:28 +0300"
+    },
+    "done": false
+  },
+  "erebus:agriculture/farm_complete": {
+    "criteria": {
+      "flowers": "2023-11-17 11:20:37 +0300",
+      "cabbage": "2023-11-17 10:48:49 +0300",
+      "heartberry": "2023-11-17 11:52:43 +0300",
+      "prickly": "2023-11-17 10:56:38 +0300",
+      "mandrake": "2023-11-17 12:37:07 +0300",
+      "swampberry": "2023-11-17 10:46:19 +0300"
+    },
+    "done": false
+  },
+  "roots:wildewheet": {
+    "criteria": {
+      "book": "2023-11-17 09:50:52 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/spray_can": {
+    "criteria": {
+      "repellent": "2023-11-17 10:45:48 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/traveller": {
+    "criteria": {
+      "fungal": "2023-11-17 10:44:23 +0300",
+      "petrified": "2023-11-17 12:36:09 +0300",
+      "savannah": "2023-11-17 10:41:37 +0300",
+      "elysian": "2023-11-17 10:54:26 +0300",
+      "jungle": "2023-11-17 11:25:34 +0300",
+      "desert": "2023-11-17 10:56:35 +0300",
+      "swamp": "2023-11-17 10:44:37 +0300",
+      "outback": "2023-11-17 11:40:31 +0300"
+    },
+    "done": true
+  },
+  "triumph:dj2/04_digital_storage": {
+    "criteria": {
+      "hasEnergyAcceptor": "2023-11-17 13:36:24 +0300"
+    },
+    "done": true
+  },
+  "aether_legacy:dethroned": {
+    "criteria": {
+      "enter_aether": "2023-11-17 15:29:17 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/find_beetles": {
+    "criteria": {
+      "dmg_stag": "2023-11-17 10:44:57 +0300"
+    },
+    "done": true
+  },
+  "erebus:portal/root": {
+    "criteria": {
+      "diamond": "2023-11-16 19:50:41 +0300",
+      "obsidian": "2023-11-17 09:14:14 +0300",
+      "emerald": "2023-11-16 19:50:55 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/rhino_beetle": {
+    "criteria": {
+      "get_plate": "2023-11-17 11:04:31 +0300"
+    },
+    "done": false
+  },
+  "erebus:agriculture/root": {
+    "criteria": {
+      "swampberries": "2023-11-17 10:46:19 +0300"
+    },
+    "done": true
+  },
+  "roots:guide": {
+    "criteria": {
+      "book": "2023-11-16 19:50:51 +0300"
+    },
+    "done": true
+  },
+  "erebus:portal/portal": {
+    "criteria": {
+      "portal_activate": "2023-11-17 10:04:17 +0300"
+    },
+    "done": true
+  },
+  "aether_legacy:extinquished": {
+    "criteria": {
+      "enter_aether": "2023-11-17 18:51:30 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/jade_ore": {
+    "criteria": {
+      "collect_jade": "2023-11-17 11:04:38 +0300"
+    },
+    "done": true
+  },
+  "erebus:exploration/jade_set": {
+    "criteria": {
+      "boot": "2023-11-17 11:07:47 +0300"
+    },
+    "done": false
+  },
+  "aether_legacy:enter_aether": {
+    "criteria": {
+      "enter_aether": "2023-11-17 14:47:06 +0300"
+    },
+    "done": true
+  },
+  "erebus:agriculture/bamboo": {
+    "criteria": {
+      "collect_bamboo": "2023-11-17 11:27:49 +0300"
+    },
+    "done": false
+  },
+  "erebus:exploration/smoothie_all": {
+    "criteria": {
+      "smoothie_5": "2023-11-17 11:01:56 +0300"
+    },
+    "done": false
+  },
+  "aether_legacy:like_a_bossaru": {
+    "criteria": {
+      "enter_aether": "2023-11-17 22:09:02 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "pattern": "2023-11-16 19:39:37 +0300"
+    },
+    "done": true
+  },
   "roots:root": {
     "criteria": {
       "auto": "2023-11-16 19:21:30 +0300"
